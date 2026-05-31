@@ -34,6 +34,13 @@ I enjoy creating clean, functional web apps and I'm focused on improving my skil
 
 ---
 
+### ✍️ Writing
+
+I write technical articles about JavaScript and web development:  
+**[jsdeepdive.hashnode.dev](https://jsdeepdive.hashnode.dev/)**
+
+---
+
 ### 👨‍💻 All My Projects
 
 You can find all my projects here:  
