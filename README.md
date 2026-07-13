@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi 👋, I'm Vikrant Patil</h1>
-  <h3>Beginner Full Stack Developer | Learning MERN Stack</h3>
+  <h3>Full Stack Developer | MERN Stack</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi, I'm Vikrant Patil from Navi Mumbai. I'm a **fresher** who recently started my journey into web development. I'm currently learning to build full-stack applications using the **MERN stack**.
-
-I enjoy creating clean, functional web apps and I'm focused on improving my skills every day through real projects. I'm actively looking for opportunities to grow as a developer.
+Hi, I'm Vikrant Patil from Navi Mumbai — transitioning from a Mechanical Engineering background into full-stack web development. I'm currently in the NeoG Camp Full Stack bootcamp, where I've built three full-stack MERN applications from scratch.
+ 
+I enjoy building clean, functional web apps and I'm currently sharpening my Data Structures & Algorithms and JavaScript fundamentals.
 
 ---
 
@@ -17,20 +17,27 @@ I enjoy creating clean, functional web apps and I'm focused on improving my skil
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **[BookCart E-commerce App](https://github.com/patilVikrant/bookCart-ecommerceApp-frontend)** | Full-featured online bookstore with product listing, cart functionality and filters | React, Bootstrap, Node.js, Express | [Live Demo](https://book-cart-ecommerce-app-frontend.vercel.app/) |
-| **[Axentra CRM Application](https://github.com/patilVikrant/axentra-crmApp-frontend)** | Customer Relationship Management system with Lead and Sales agents management | React, Node.js, Chart.js, MongoDB | [Live Demo](https://axentra-crm-app-frontend.vercel.app/) |
+| **[TaskForge](https://github.com/patilVikrant/taskForge)** | Full-stack task & project management app with JWT auth, protected routes, team-based organization, and Chart.js reports | React, Vite, Context API, JWT, Node.js, Express, MongoDB | [Live Demo](https://task-forge-fawn.vercel.app/login) |
+| **[Axentra CRM](https://github.com/patilVikrant/axentra-crmApp-frontend)** | CRM for lead & sales agent management with filtering, sorting, comment tracking, and performance reports | React, Chart.js, Node.js, Express, MongoDB | [Live Demo](https://axentra-crm-app-frontend.vercel.app/) |
+| **[BookCart](https://github.com/patilVikrant/bookCart-ecommerceApp-frontend)** | Full-featured online bookstore with product listing, cart, wishlist, and filters | React, Bootstrap, Node.js, Express, MongoDB | [Live Demo](https://book-cart-ecommerce-app-frontend.vercel.app/) |
 
 > See all repositories → [github.com/patilVikrant?tab=repositories](https://github.com/patilVikrant?tab=repositories)
+
+---
+ 
+### 🛠️ Tech Stack
+ 
+**Frontend:** ReactJS, React Router DOM, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Chart.js
+**Backend:** Node.js, Express.js, JWT-based Authentication, RESTful APIs
+**Database:** MongoDB, Mongoose
+**Tools:** Git, GitHub, Postman, Vercel
 
 ---
 
 ### 🌱 Currently Learning
 
-- HTML, CSS & JavaScript
-- React.js
-- Node.js + Express.js
-- Bootstrap
-- MongoDB + Mongoose
+- Data Structures & Algorithms (JavaScript)
+- JavaScript Fundamentals
 
 ---
 
@@ -59,12 +66,6 @@ You can find all my projects here:
 - **Email**: pvikrant248@gmail.com
 - **LinkedIn**: [linkedin.com/in/vikrant-patil](https://www.linkedin.com/in/vikrant-patil-4aa26011b/)
 - **Portfolio**: [vikrant-portfolio-sepia.vercel.app](https://vikrant-portfolio-sepia.vercel.app)
-
----
-
-### ⚡ Fun Fact
-
-I'm transitioning from Mechanical Engineering to Software Development — and loving the journey!
 
 ---
 
