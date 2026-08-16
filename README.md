@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm Vikrant Patil from Navi Mumbai — transitioning from a Mechanical Engineering background into full-stack web development. I'm currently in the NeoG Camp Full Stack bootcamp, where I've built four full-stack MERN applications from scratch.
+Hi, I'm Vikrant Patil from Navi Mumbai - transitioning from a Mechanical Engineering background into full-stack web development. I'm currently in the NeoG Camp Full Stack bootcamp, where I've built four full-stack MERN applications from scratch.
  
 I enjoy building clean, functional web apps and I'm currently sharpening my Data Structures & Algorithms and JavaScript fundamentals.
 
@@ -17,10 +17,10 @@ I enjoy building clean, functional web apps and I'm currently sharpening my Data
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **[Chatly](https://github.com/patilVikrant/chatly)** | Real-time chat app with JWT auth, 1-to-1 messaging via Socket.io, typing indicators, read receipts, and online status | React, Vite, Socket.io, JWT, Node.js, Express, MongoDB | [Live Demo](https://chatly-kappa-sand.vercel.app/) |
-| **[TaskForge](https://github.com/patilVikrant/taskForge)** | Full-stack task & project management app with JWT auth, protected routes, team-based organization, and Chart.js reports | React, Vite, Context API, JWT, Node.js, Express, MongoDB | [Live Demo](https://task-forge-fawn.vercel.app/login) |
-| **[Axentra CRM](https://github.com/patilVikrant/axentra-crmApp-frontend)** | CRM for lead & sales agent management with filtering, sorting, comment tracking, and performance reports | React, Chart.js, Node.js, Express, MongoDB | [Live Demo](https://axentra-crm-app-frontend.vercel.app/) |
-| **[BookCart](https://github.com/patilVikrant/bookCart-ecommerceApp-frontend)** | Full-featured online bookstore with product listing, cart, wishlist, and filters | React, Bootstrap, Node.js, Express, MongoDB | [Live Demo](https://book-cart-ecommerce-app-frontend.vercel.app/) |
+| **[Chatly](https://github.com/patilVikrant/chatly)** | Real-time chat app with JWT auth, 1-to-1 messaging via Socket.io, typing indicators, read receipts and online status | React, Vite, Socket.io, JWT, Node.js, Express, MongoDB | [Live Demo](https://chatly-kappa-sand.vercel.app/) |
+| **[TaskForge](https://github.com/patilVikrant/taskForge)** | Full-stack task & project management app with JWT auth, protected routes, team-based organization and Chart.js reports | React, Vite, Context API, JWT, Node.js, Express, MongoDB | [Live Demo](https://task-forge-fawn.vercel.app/login) |
+| **[Axentra CRM](https://github.com/patilVikrant/axentra-crmApp-frontend)** | CRM for lead & sales agent management with filtering, sorting, comment tracking and performance reports | React, Chart.js, Node.js, Express, MongoDB | [Live Demo](https://axentra-crm-app-frontend.vercel.app/) |
+| **[BookCart](https://github.com/patilVikrant/bookCart-ecommerceApp-frontend)** | Full-featured online bookstore with product listing, cart, wishlist and filters | React, Bootstrap, Node.js, Express, MongoDB | [Live Demo](https://book-cart-ecommerce-app-frontend.vercel.app/) |
 
 > See all repositories → [github.com/patilVikrant?tab=repositories](https://github.com/patilVikrant?tab=repositories)
 
@@ -28,10 +28,10 @@ I enjoy building clean, functional web apps and I'm currently sharpening my Data
  
 ### 🛠️ Tech Stack
  
-**Frontend:** ReactJS, React Router DOM, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Chart.js
-**Backend:** Node.js, Express.js, Socket.io, JWT-based Authentication, RESTful APIs
-**Database:** MongoDB, Mongoose
-**Tools:** Git, GitHub, Postman, Vercel, Render
+- **Frontend:** ReactJS, React Router DOM, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Chart.js
+- **Backend:** Node.js, Express.js, Socket.io, JWT-based Authentication, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Postman, Vercel, Render
 
 ---
 
